@@ -5,7 +5,7 @@
     * [下载](installation/下载)
     * [安装](installation/安装)
     * [启动](installation/启动)
-* [Usage]()
+* [Usage](usage/README)
   * [实用]()
     * [模拟建造](usage/utility/模拟建造)
     * [装备图](usage/utility/装备图)
@@ -17,3 +17,4 @@
   * [无法同步仓库](Q&A/无法同步仓库)
 * [Other]()
   * [未来展望](other/future)
+  * [更新日志](other/log)
