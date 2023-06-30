@@ -5,6 +5,7 @@
     * [下载](installation/下载)
     * [安装](installation/安装)
     * [启动](installation/启动)
+    * [升级](installation/升级)
 * [Usage](usage/README)
   * [实用]()
     * [模拟建造](usage/utility/模拟建造)
@@ -18,3 +19,4 @@
 * [Other]()
   * [未来展望](other/future)
   * [更新日志](other/log)
+  * [提出建议](other/advise)
