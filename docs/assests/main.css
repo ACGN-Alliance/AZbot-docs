@@ -1,0 +1,17 @@
+:root {
+      --base-font-size: 18px;
+      --theme-color: green;
+      --modular-scale: 1.333;
+      --blockquote-padding: 0.9em;
+      --content-max-width: 60em;
+      --code-block-padding: 1.0em 1.0em 0.9em 0.9em;
+      --codeFontFamily: 'JetBrains Mono', 'Roboto Mono', 'Monaco',
+          'Courier New', Courier, 'Microsoft YaHei UI', monospace !important;
+      --code-block-margin: 0.8em 0;
+      --code-font-size: calc(var(--font-size-m) * 0.9);
+      --code-inline-color: green;
+      --link-color: aqua;
+      --link-text-decoration--hover: bold;
+      --notice-padding: 1em 2.5em;
+      --sidebar-width: 18rem;
+    }

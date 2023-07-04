@@ -1,6 +1,6 @@
 # AZbot 文档 :id=start
 
-> 文档正在建设当中，稍安勿躁 
+> 文档正在完善当中, 内容并不完全
 
 AZbot 是一个基于 Nonebot2 平台编写，开源免费的 QQ 群机器人  
 仓库地址：[Azurlane-helper-bot](https://github.com/ACGN-Alliance/Azurlane-helper-bot)
