@@ -24,8 +24,8 @@
 #### 废弃计划
 
 - 井号榜图片爬取：图片较大，不如直接使用wiki链接存储
-- 舰船立绘 & 皮肤 & 语音爬取：量大，不适合云端集中存取
-- API函数部署：没有必要，可使用`restAPI`替代
+- 舰船立绘 & 皮肤 & 语音爬取：量大，不适合GitHub云端集中存取
+- API函数部署：没有必要，可使用`Github restAPI`与`Git`替代
 
 ## [Azbot 机器人](https://github.com/ACGN-Alliance/Azurlane-helper-bot)
 这个项目即目前正在推进的核心项目，当然了，制作进度只有20%不到，只能慢慢搞了，哎  
@@ -36,16 +36,16 @@
 - 建造模拟器，支持轻型，重型，特型，限定卡池的大建
 - 装备参数图获取（此功能尚在测试阶段）
 - 功能黑名单
+- 碧蓝航线官方b站动态推送 <font color="red">*</font>
+- 同步功能重写，预计使用`git`进行数据管理
 
 ### 更新计划
 > 带 <font color="red">*</font> 的为正在积极推进的项目
 ##### 功能性
 
-- 同步功能重写，预计使用`git`进行数据管理
 - 简易群管 <font color="red">*</font>
 - 自定义关键词匹配回复 <font color="red">*</font>
 - 功能菜单美化
-- 碧蓝航线官方b站动态推送 <font color="red">*</font>
 - 优化建造模拟器结果展示
 - 舰娘皮肤获取
 - 舰娘属性实时渲染
@@ -69,7 +69,6 @@
 ### 废弃计划
 
 - blhx-wiki-mirai插件功能的移植
-- 装备推荐
 
 
 ## [AZbot-docs 文档](https://acgn-alliance.github.io/AZbot-docs/#/)
